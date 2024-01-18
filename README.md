@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Also makes use of tailwind and supabase as database solution.
+Also makes use of shadcdn ui, tailwind and supabase as database solution.
 
 ## Getting Started
 
